@@ -6,14 +6,15 @@ School: HSTAT (High School Of Telecommunication Arts And Technology)
 
 Email: nancyc85@nycstudents.net
 
-Sophomore
+**Sophomore**
 
 ---
-### Schools I Went To:
+### Where I Was Born And Where I Went
 
 I was born in Pennsylvania, then moved to China, then, Brooklyn & New York.
 
 ---
+### Schools I Went To:
 
 I went to PS310 in elementary school.
 
