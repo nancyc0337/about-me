@@ -1,14 +1,19 @@
-Nancy Chen
+# Nancy Chen
 
-Student
+_Student_
 
-School:
+School: HSTAT (High School Of Telecommunication Arts And Technology)
 
-Email:
+Email: nancyc85@nycstudents.net
 
 Sophomore
 
+---
+### Schools I Went To:
+
 I was born in Pennsylvania, then moved to China, then, Brooklyn & New York.
+
+---
 
 I went to PS310 in elementary school.
 
@@ -16,39 +21,47 @@ I went to Mckinley 259 in middle school.
 
 Now I am in HSTAT (High School Of Telecommunication Arts And Technology) in high school.
 
-Favorite Color: Rainbow
+---
+### Favorite Colors:
 
-Second Favorite Color: Orange
+1. Rainbow
 
-Languages I Can Speak:
+2. Orange
 
-English
-Started learning English at Kindergarten
+---
+### Languages I Can Speak:
 
-Chinese (Mandarin)
-Started learning Mandarin at Kindergarten
+* English
+  * Started learning English at Kindergarten
 
-Spanish
-Started learning Spanish at 9th grade
+* Chinese (Mandarin)
+  * Started learning Mandarin at Kindergarten
 
-[My Portfolio](https://nancyc0337.github.io/)
+* Spanish
+  * Started learning Spanish at 9th grade
 
-Schedule
+---
 
-Algebra
+[Link To My Portfolio](https://nancyc0337.github.io/)
 
-BHP (Big History Honors Project)
+---
 
-Lunch
+### Schedule
 
-AP World History
+1. Algebra
 
-Spanish
+2. BHP (Big History Honors Project)
 
-SEP (Software Engineering Program)
+3. Lunch
 
-Literature Of Modern World
+4. AP World History
 
-Chemistry
+5. Spanish
 
-Yoga
+6. SEP (Software Engineering Program)
+
+7. Literature Of Modern World
+
+8. Chemistry
+
+9. Yoga
