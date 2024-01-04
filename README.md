@@ -68,4 +68,4 @@ Now I am in HSTAT (High School Of Telecommunication Arts And Technology) in high
 9. Yoga
 
 ---
-Review by Qilin
+Reviewed by Qilin
